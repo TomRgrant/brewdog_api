@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+img {
+  width: 5%;
+  height: auto;
+}
+
+.hidden {
+  display: none;  
+}
+
+.shown {
+  display:inline;
+}
+
+.beer-info {
+  color: blueviolet;
+}
+
+.pointer {
+  cursor: pointer;
+}
